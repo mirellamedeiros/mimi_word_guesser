@@ -1,0 +1,10 @@
+problema 1: while loop não encerra em 6 tentativas para letras sozinhas, mas sim para palavras completas XXX
+    1.1 : 6 tentativas erradas de caractere resultam em vitoria ?????
+    1.2 : +6 tentativas erradas sao permitidas, se vc ja acertou alguma coisa antes
+
+problema 2: letras corretas que só aparecem 1 vez na string são dadas como tentativas corretas mais de uma vez
+
+problema 3: mysterious_word não atualiza pra subtituir os _ pelas letras corretas - OK!!!!!
+
+problema 4: números e simbolos são aceitos como tentativas incorretas!
+    4.1: palavras inteiras nao sao aceitas
